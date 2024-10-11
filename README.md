@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there I'm Gisel👋
+- 🔭 I’m currently working on human heat balance models and how make them more user-friendly to work with in Python.
 <!--
 **gguzmane/gguzmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
